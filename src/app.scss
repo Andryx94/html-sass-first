@@ -1,0 +1,20 @@
+$primary_color: red;
+$secondary_color: white;
+$primary_background_color: black;
+$secondary_background_color: green;
+
+
+h1 {
+  color: $primary_color;
+  background-color: $primary_background_color;
+}
+
+h2 {
+  color: $secondary_color;
+  background-color: $secondary_background_color;
+}
+
+h3 {
+  color: $secondary_color;
+  background-color: $secondary_background_color;
+}
